@@ -230,3 +230,5 @@ For support, questions, or feature requests:
 ---
 
 **Note**: This app is designed for iOS 16+ and follows Apple's App Store Review Guidelines. All features are implemented within iOS sandbox restrictions and require appropriate user permissions.
+
+<!-- Test comment for verification purposes -->
